@@ -1,0 +1,18 @@
+# Ask-first settings for Codex
+#
+# While this file sits here in permissions/, it does nothing.
+# To switch it on, ask the agent to copy it to .codex/config.toml. That
+# switches it on for this project (Codex reads .codex/config.toml only in a
+# folder you have chosen to trust). Start a new chat after switching it on or off.
+#
+# With these settings the agent can still read files and run commands that
+# only read. It must ask you before it changes any file or runs anything
+# that writes.
+
+sandbox_mode = "read-only"       # commands can read files but not write them
+approval_policy = "on-request"   # when it needs to do more, it asks you first
+
+# To switch off: ask the agent to delete .codex/config.toml, then start a new
+# chat. Codex's default then applies again: it edits inside this project
+# without asking, and still asks before using the internet or touching files
+# outside this folder.

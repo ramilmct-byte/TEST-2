@@ -1,0 +1,7 @@
+group,estimate,ci_low,ci_high,n,measure,units,ci_method
+employed,7.078597,6.957784,7.199411,827,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed
+self_employed,7.122340,6.869789,7.374892,188,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed
+unemployed,7.067568,6.672133,7.463002,74,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed
+student,6.494253,6.057138,6.931368,87,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed
+retired,6.775432,6.614647,6.936217,521,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed
+other_inactive,6.995074,6.750092,7.240056,203,Mean life satisfaction,0-10 scale points,95% t interval for a group mean; independent observations assumed

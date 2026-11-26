@@ -1,0 +1,6 @@
+{
+  "observed_count": 3,
+  "missing_count": 2,
+  "observed_mean": 6.666666666666667,
+  "note": "Codes -8 and -9 are missing; genuine zero responses would remain valid."
+}

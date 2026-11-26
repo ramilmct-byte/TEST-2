@@ -1,0 +1,9 @@
+case_id,life_satisfaction,employment_status,work_arrangement,commute_minutes
+T01,0,employed,remote,0
+T02,4,retired,not_applicable,-7
+T03,8,employed,on_site,30
+T04,10,self_employed,hybrid,20
+T05,-8,employed,on_site,-8
+T06,-9,student,not_applicable,-7
+T07,6,unemployed,not_applicable,-7
+T08,2,employed,hybrid,-9

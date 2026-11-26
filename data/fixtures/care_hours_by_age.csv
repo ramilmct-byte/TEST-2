@@ -1,0 +1,6 @@
+group,estimate,ci_low,ci_high,n,measure,units,ci_method
+18-29,7.315789,6.342619,8.288960,342,Mean unpaid care,Hours per week,95% t interval for a group mean; independent observations assumed
+30-44,7.734742,6.833955,8.635529,426,Mean unpaid care,Hours per week,95% t interval for a group mean; independent observations assumed
+45-59,6.868106,6.102905,7.633306,417,Mean unpaid care,Hours per week,95% t interval for a group mean; independent observations assumed
+60-74,7.457014,6.590210,8.323817,442,Mean unpaid care,Hours per week,95% t interval for a group mean; independent observations assumed
+75-85,7.441696,6.467897,8.415495,283,Mean unpaid care,Hours per week,95% t interval for a group mean; independent observations assumed
